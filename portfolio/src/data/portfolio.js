@@ -54,7 +54,7 @@ export const certifications = [
     issuer: 'Naukri Campus',
     date: 'September 2025',
     detail: '99.93 percentile — top 0.07% nationwide in quantitative aptitude, logical reasoning & problem-solving.',
-    link: '#',
+    link: 'https://drive.google.com/file/d/1EJlcvpQdy_G3mfbEHNGpJUDC0tVU37Ho/view?usp=drive_link',
   },
 ]
 

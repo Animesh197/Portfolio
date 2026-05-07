@@ -87,7 +87,7 @@ export default function Hero() {
           <a href="#contact" className="cosmic-button outline" style={{ fontSize: '0.9rem', padding: '12px 28px' }}>
             <Mail size={15} /> Get in Touch
           </a>
-          <a href="#" className="cosmic-button outline" style={{ fontSize: '0.9rem', padding: '12px 28px' }}>
+          <a href="/animesh-resume.pdf" download="Animesh_Kumar_Rai_Resume.pdf" className="cosmic-button outline" style={{ fontSize: '0.9rem', padding: '12px 28px' }}>
             <Download size={15} /> Resume
           </a>
         </div>

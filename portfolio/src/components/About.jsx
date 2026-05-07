@@ -83,7 +83,7 @@ export default function About() {
               <a href="#contact" className="cosmic-button" style={{ fontSize: '0.88rem', padding: '11px 24px' }}>
                 Get In Touch
               </a>
-              <a href="#" className="cosmic-button outline" style={{ fontSize: '0.88rem', padding: '11px 24px' }}>
+              <a href="/animesh-resume.pdf" download="Animesh_Kumar_Rai_Resume.pdf" className="cosmic-button outline" style={{ fontSize: '0.88rem', padding: '11px 24px' }}>
                 Download CV
               </a>
             </div>
